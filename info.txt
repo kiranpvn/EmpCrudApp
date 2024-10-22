@@ -1,0 +1,7 @@
+This is my first file
+I am in second line
+This is end  of the file
+===================================
+
+This file create in local machine would like to push to git repo
+At: 22-Oct-2024, at 6:20am
